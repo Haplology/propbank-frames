@@ -61,7 +61,7 @@
       </example>
     <note>GO-V NOTES: Member of VNcls meander-47.7, escape-51.1-2. (from go.01-v)</note>
 </roleset>
-    <roleset id="go.02" name="self-directed motion, disapear or go away">
+    <roleset id="go.02" name="self-directed motion, disappear or go away">
       <aliases>
         <alias framenet="Motion Waver_between_options" pos="v" verbnet="">go</alias>
         <alias framenet="" pos="n" verbnet="">going</alias>
