@@ -9,7 +9,7 @@
       <note>HEAR-V NOTES: Member of Vncls discover-84-1-1, see-30.1-1-1. Comparison with 'say'. (from hear.01-v)</note>
       <note>HEARING-N NOTES: Based on sentences in nouns-00040. Based on hear.01. Vn classes see-30.1-1-1 and discover-84-1-1. Framed by Katie. (from hearing.03-n)</note>
       <roles>
-        <note>Speaker and utterance can be very hard to distinguish.  In general,avoid using arg2 unless it's really obvious that the speaker isseparate from the utterance. (from hear.01-v)</note>
+        <note>Speaker and utterance can be very hard to distinguish.  In general, avoid using arg2 unless it's really obvious that the speaker is separate from the utterance. (from hear.01-v)</note>
         <role descr="hearer" f="pag" n="0">
           <vnrole vncls="30.1-1-1" vntheta="Experiencer"/>
           <vnrole vncls="84-1-1" vntheta="Agent"/>
