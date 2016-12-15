@@ -44,7 +44,7 @@
     </roleset>
   </predicate>
   <predicate lemma="fat">
-    <roleset id="fat.03" name="havnig an abundance of fat; full">
+    <roleset id="fat.03" name="having an abundance of fat; full">
       <aliases>
         <alias framenet="Body_description_holistic" pos="j" verbnet="">fat</alias>
       </aliases>
