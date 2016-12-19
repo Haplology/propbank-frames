@@ -12,7 +12,7 @@
       <note>MISSED-J NOTES: Added by Julia based on BOLT-1, miss-v.01. Corresponds to VNcls admire-31.2. (from missed.01-j)</note>
       <note>MISSING-J NOTES: Automatically created by Julia as an alias file for unification. (from missing.01-j)</note>
       <roles>
-        <role descr="misser, entity/plac/source that lacks arg1" f="pag" n="0">
+        <role descr="misser, entity/place/source that lacks arg1" f="pag" n="0">
           <vnrole vncls="31.2" vntheta="experiencer"/>
         </role>
         <role descr="thing longed for, thing lacking" f="ppt" n="1">
