@@ -1,7 +1,7 @@
 <!DOCTYPE frameset SYSTEM "frameset.dtd">
 <frameset>
   <predicate lemma="touch">
-    <roleset id="touch.01" name="be or come into contact with, literally or metpahorically">
+    <roleset id="touch.01" name="be or come into contact with, literally or metaphorically">
       <aliases>
         <alias framenet="" pos="n" verbnet="">touch</alias>
         <alias framenet="Manipulation Impact" pos="v" verbnet="">touch</alias>
