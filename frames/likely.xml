@@ -7,7 +7,7 @@
       </aliases>
       <note>LIKELY-J NOTES: Added by Julia based on WSJ data. (from likely.01-j)</note>
       <roles>
-        <role descr="likely event (may require concatenation" f="pag" n="1"/>
+        <role descr="likely event (may require concatenation)" f="pag" n="1"/>
       </roles>
       <example name="the arg" src="internet" type="">
         <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
