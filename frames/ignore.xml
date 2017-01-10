@@ -32,7 +32,7 @@
       <note>IGNORANT-J NOTES: Added by Julia based on BOLT-1. (from ignorant.01-j)</note>
       <roles>
         <role descr="unknowledgeable entity" f="pag" n="1"/>
-        <role descr="subject matter arg1 is unwaware of" f="ppt" n="2"/>
+        <role descr="subject matter arg1 is unaware of" f="ppt" n="2"/>
       </roles>
       <example name="both args" src="internet" type="">
         <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
