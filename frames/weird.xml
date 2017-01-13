@@ -7,7 +7,7 @@
       </aliases>
       <note>WEIRD-J NOTES: Added by Julia based on BOLT-1, stupid.01. (from weird.01-j)</note>
       <roles>
-        <role descr="weird thing/action (may require concatenation" f="pag" n="1"/>
+        <role descr="weird thing/action (may require concatenation)" f="pag" n="1"/>
       </roles>
       <example name="concatenation" src="internet" type="">
         <inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"/>
