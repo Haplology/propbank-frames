@@ -21,7 +21,7 @@
     </roleset>
   </predicate>
   <predicate lemma="camp">
-    <roleset id="camp.02" name="camp (non-phrasal), lving temporarily in a tent">
+    <roleset id="camp.02" name="camp (non-phrasal), living temporarily in a tent">
       <aliases>
         <alias framenet="" pos="n" verbnet="">camping</alias>
         <alias framenet="Residence" pos="v" verbnet="">camp</alias>
