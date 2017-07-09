@@ -61,7 +61,7 @@
     </roleset>
   </predicate>
   <predicate lemma="hearing">
-    <roleset id="hearing.02" name="a session of a committe or jury">
+    <roleset id="hearing.02" name="a session of a committee or jury">
       <aliases>
         <alias framenet="" pos="n" verbnet="">hearing</alias>
       </aliases>
